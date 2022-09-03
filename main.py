@@ -12,7 +12,7 @@ lifelines={1: 'Flip the question: New question appears', 2: '50-50: Remove 2 wro
 prizes=['1,000', '2,000', '3,000', '5,000', '10,000', '20,000', '40,000', '80,000', '1,60,000', '3,20,000', '6,40,000', '12,50,000','25,00,000', '50,00,000', '1,00,00,000', '7,00,00,000']
 
 print('************************************'.center(25))
-print(Fore.LIGHTCYAN_EX+Style.BRIGHT +'Welcome to KBC Game'.center(35)+Fore.RESET+Style.RESET_ALL)
+print(Fore.LIGHTCYAN_EX+Style.BRIGHT +'Welcome to "Who wants to be a millionaire" Game'.center(35)+Fore.RESET+Style.RESET_ALL)
 print('************************************'.center(25))
 print(" ")
 print(" ")
